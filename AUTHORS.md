@@ -2,7 +2,7 @@ The BlindSight hat couldn't have been made without these people:
 
 * Harry A
 * Isabel C
-* James L ([@LiveG](https://github.com/LiveG-Technologies))
+* James L ([@LiveG-Technologies](https://github.com/LiveG-Technologies))
 * Jed A
 * Oliver F
 * Ruben G ([@Flippin3D](https://github.com/Flippin3D))
