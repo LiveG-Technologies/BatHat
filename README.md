@@ -1,2 +1,2 @@
-# BatHat
-Team Echo's Bat Hat for the PA Raspberry Pi Competition 2017.
+# BlindSight
+Team Echo's 'bat hat' for the PA Raspberry Pi Competition 2017.
