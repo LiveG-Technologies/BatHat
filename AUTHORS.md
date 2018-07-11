@@ -1,4 +1,4 @@
-The BlindSight hat couldn't have been made without these people:
+The BatHat couldn't have been made without these people:
 
 * Harry A
 * Isabel C
